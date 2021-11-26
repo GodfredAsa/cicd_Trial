@@ -59,6 +59,10 @@
 				</configuration>
 			</plugin>
 		</plugins>
+
+		<finalName>cicd123</finalName>
+
+
 	</build>
 
 </project>
